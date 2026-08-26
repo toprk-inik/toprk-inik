@@ -22,18 +22,16 @@ I'm **Toprak**, a developer who likes taking an idea from a rough concept and pu
 
 I enjoy working at the intersection of **software, games, AI and automation**. I'm constantly experimenting with new tools, frameworks and workflows — especially when they let me build something that didn't exist before.
 
-```text
 ┌──────────────────────────────────────────────────────────────┐
-│                         TOPRAK.EXE                           │
+│                          TOPRAK.EXE                          │
 ├──────────────────────────────────────────────────────────────┤
-│  🎮 Game Development        → Unity / C#                    │
-│  🤖 Artificial Intelligence  → AI / Agents / MCP             │
-│  🌐 Product Development      → Web / SaaS                    │
-│  ⚙️ Automation               → Developer Tooling             │
-│  🧠 Learning                 → Build → Break → Understand    │
-│  🚀 Current Mission          → Turn ideas into products      │
+│  🎮 Game Development        → Unity / C#                     │
+│  🤖 Artificial Intelligence → AI / Agents / MCP              │
+│  🌐 Product Development     → Web / SaaS                     │
+│  ⚙️ Automation              → Developer Tooling              │
+│  🧠 Learning                → Build → Break → Understand     │
+│  🚀 Current Mission         → Turn ideas into products       │
 └──────────────────────────────────────────────────────────────┘
-```
 
 - 🚀 Building and experimenting with original projects
 - 🎮 Learning deeper **Unity & game development**

@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Toprak
 
-### `Developer` · `Game Developer` · `AI Builder` · `Open Source Enthusiast`
+### `Developer` · `AI Engineer` 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+ideas+into+real+products.;Creating+games+with+Unity.;Exploring+AI%2C+MCP+%26+automation.;Learning+by+building%2C+breaking+%26+rebuilding." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+ideas+into+real+products.;Building+LLMs%2C+MCP+%26+automation.;Learning+by+building%2C+breaking+%26+rebuilding." alt="Typing SVG" />
 
 <br/>
 
@@ -18,16 +18,15 @@
 
 ## 🧬 About Me
 
-I'm **Toprak**, a developer who likes taking an idea from a rough concept and pushing it toward a real, usable product.
+I'm **Toprak**! I am a builder which works with Python and C#!
 
-I enjoy working at the intersection of **software, games, AI and automation**. I'm constantly experimenting with new tools, frameworks and workflows — especially when they let me build something that didn't exist before.
+I enjoy working at the intersection of **software, AI and automation**. I'm constantly experimenting with new tools, frameworks and workflows — especially when they let me build something that didn't exist before.
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                         TOPRAK.EXE                           │
 ├──────────────────────────────────────────────────────────────┤
-│  🎮 Game Development         → Unity / C#                    │
-│  🤖 Artificial Intelligence  → AI / Agents / MCP             │
+│  🤖 Artificial Intelligence  → AI  / LLM / MCP              │
 │  🌐 Product Development      → Web / SaaS                    │
 │  ⚙️ Automation               → Developer Tooling             │
 │  🧠 Learning                 → Build → Break → Understand    │
@@ -36,12 +35,11 @@ I enjoy working at the intersection of **software, games, AI and automation**. I
 ```
 
 - 🚀 Building and experimenting with original projects
-- 🎮 Learning deeper **Unity & game development**
+- 🎮 Learning deeper **Python and C#**
 - 🤖 Exploring **AI agents, MCP and AI-powered workflows**
 - 🌐 Building modern **web apps and SaaS products**
-- 🛡️ Interested in **security, automation and developer tooling**
+- 🛡️ Interested in **Ai LLMs**
 - 🧪 I learn by actually building things
-- 🤝 Always interested in cool technical collaborations
 
 ---
 
@@ -59,16 +57,10 @@ I enjoy working at the intersection of **software, games, AI and automation**. I
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
 </p>
 
-### 🎮 Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs" />
-</p>
-
 ### 🤖 AI / Automation / Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,bash,git,github,jupyter" />
 </p>
 
 ### 🛠️ Environment & Workflow
@@ -81,35 +73,13 @@ I enjoy working at the intersection of **software, games, AI and automation**. I
 
 # 🚀 Featured Projects
 
-## 🎮 Someone's Lying
-
-> **Would you sell your friend for money?** 💰
-
-A multiplayer social game built around **trust, deception, choices and betrayal**.
-
-Players receive different lies and situations, make decisions, manipulate the table and try to discover who is actually telling the truth.
-
-**Core ideas:**
-
-- 🕵️ Social deduction
-- 💬 Bluffing & deception
-- 💰 Risk / reward decisions
-- 🤝 Cooperation & betrayal
-- 🎭 Hidden information
-- 🧠 Psychological gameplay
-- 🌐 Multiplayer experience
-
-**Stack:** `Unity` `C#` `Multiplayer` `Game Systems`
-
----
-
-## 🧠 Prisma Learns AI
+## 🧠 Synapse AI Tutor
 
 An AI-powered learning workspace focused on one simple principle:
 
 > **Use AI to learn — not to avoid learning.**
 
-Prisma Learns AI is designed as a complete learning environment where students can bring their own material and turn it into interactive learning experiences.
+Synapse AI Tutor is designed as a complete learning environment where students can bring their own material and turn it into interactive learning experiences.
 
 ### ✨ Planned / Core Features
 
@@ -132,21 +102,19 @@ Prisma Learns AI is designed as a complete learning environment where students c
 
 ---
 
-## 🛡️ allSafe Security
+## 🤖 Vega Ai LLMs
 
-A security-focused Discord project designed to protect communities from destructive and abusive activity.
+Focusing on coding and chatting!
 
-### 🔐 Security Concepts
+### 🎯 Planned Models
 
-- 🚨 Anti-Raid
-- 💣 Anti-Nuke
-- 🛑 Anti-Spam
-- 🤖 Intelligent Moderation
-- ⚡ Rapid Server Lockdown
-- 🧠 Adaptive Protection
-- 📊 Security Monitoring
+- vega-1-tiny (1.5B)
+- vega-1-base (3B)
+- vega-1-tiny-thinking (2B)
+- vega-large-llm (7B)
+- vega-1-tiny-large (5B)
 
-**Goal:** make server protection faster, smarter and easier to manage.
+**Goal:** being a friendly coding agent that runs on your local pc/phone/tablet or laptop.
 
 ---
 
@@ -154,10 +122,8 @@ A security-focused Discord project designed to protect communities from destruct
 
 ```text
 AI & Agents       ████████████████████░░  90%
-Game Development  █████████████████░░░░░  80%
 Web Development   ████████████████░░░░░░  75%
 Automation        ███████████████░░░░░░░  70%
-Cybersecurity     ████████████░░░░░░░░░░  60%
 Software Design   ████████████░░░░░░░░░░  60%
 ```
 
@@ -167,19 +133,11 @@ Software Design   ████████████░░░░░░░░�
 
 # 🧠 Current Learning Path
 
-### 🎮 Game Development
-
-- Unity architecture
-- C# gameplay systems
-- Multiplayer game systems
-- Game UI / UX
-- Optimization for lower-end hardware
-
 ### 🤖 Artificial Intelligence
 
 - AI agents
-- MCP ecosystems
-- Tool-using AI
+- MCP servers
+- One-point focused LLMs
 - AI-assisted development
 - AI product architecture
 
@@ -253,12 +211,11 @@ graph LR
 # 🔥 Things I Like Building
 
 ```diff
-+ 🎮 Games
 + 🤖 AI-powered products
++ 🤖 AI LLMs
 + 🌐 SaaS platforms
 + 🛠️ Developer tools
 + ⚙️ Automation systems
-+ 🛡️ Security tools
 + 🧠 Learning systems
 + 🧪 Weird experiments
 ```
@@ -285,14 +242,13 @@ Every broken prototype is still progress.
 
 - [x] Start building real software projects
 - [x] Explore AI-powered development
-- [x] Start game development with Unity
 - [x] Experiment with MCP
-- [ ] Ship **Someone's Lying**
-- [ ] Continue building **Prisma Learns AI**
-- [ ] Expand **allSafe Security**
+- [x] Keep learning without stopping
+- [ ] Continue building **Synapse AI Tutor**
 - [ ] Publish more open-source projects
 - [ ] Build something people actually use
-- [ ] Keep learning without stopping
+- [ ] Build own LLM
+
 
 ---
 
@@ -306,7 +262,7 @@ $ cat mission.txt
 Turn ideas into real products.
 
 $ cat interests.txt
-AI | Games | Software | Automation | Open Source
+AI | Software | Automation | Open Source
 
 $ cat philosophy.txt
 Build. Break. Learn. Repeat.
@@ -314,18 +270,6 @@ Build. Break. Learn. Repeat.
 $ ./future.sh
 Building...
 ```
-
----
-
-# 🤝 Open To
-
-- 🚀 Interesting collaborations
-- 🎮 Game development projects
-- 🤖 AI experiments
-- 🌐 SaaS ideas
-- 🛠️ Open-source projects
-- 🧪 Technical experiments
-- 💡 People who want to build something crazy
 
 ---
 
